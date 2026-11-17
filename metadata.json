@@ -1,0 +1,6 @@
+{
+  "name": "T5-Small Hugging Face Space",
+  "description": "Interactive multi-task NLP Space demo and Hugging Face deployment kit for google-t5/t5-small (translation, summarization, text-to-text inference, and SentencePiece tokenization).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
